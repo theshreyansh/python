@@ -1,2 +1,2 @@
-# Python
-Projects with python
+<h1>Data Science Projects Based On Python</h1>
+<li><a href="https://htmlpreview.github.io/?https://github.com/theshreyansh/Python/blob/development/Advanced_Python_Project_Detecting_Fake_News/Advanced_Python_Project_Detecting_Fake_News.html">Fake News Detector</a></li>
